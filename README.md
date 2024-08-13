@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😎 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 개발자를 꿈꾸는 학생입니다!</li><li> 새로운 기술을 탐구하고 구현하는 것을 즐깁니다!</li><li>요즘엔 PS와 Backend에 관심이 많습니다!</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 개발자를 꿈꾸는 학생입니다!</li><li> 새로운 기술을 탐구하고 구현하는 것을 즐깁니다!</li><li>요즘엔 PS와 Backend에 관심이 많습니다!</li><li>블로그에 주로 알고리즘과 PS풀이를 업로드하고 있습니다. 많관부~<li> </div> 
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
