@@ -1,4 +1,4 @@
-# Welcome to my Github 👋
+# HI there 👋
 
 <!--
 **gleaming9/gleaming9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>-->
 
 <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😎 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 개발자를 꿈꾸는 학생입니다!</li><li> 새로운 기술을 탐구하고 구현하는 것을 즐깁니다!</li><li>요즘엔 PS와 Backend에 관심이 많습니다!</li><li>블로그에 주로 알고리즘과 PS풀이를 업로드하고 있습니다!</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> </div> 
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -30,11 +29,10 @@ Here are some ideas to get you started:
     </div>
     <div align= "left">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Learning </h2> <br>
-      
-   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+        
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+ ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gleaming9)](https://solved.ac/gleaming9)
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -42,8 +40,5 @@ Here are some ideas to get you started:
          <a href=mailto:mathasdf0@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mathasdf0@gmail.com"> </a> </div>  <br> 
     <div align= "left">  </div> 
     </div>
-
-    
-
 
 <!--<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>-->
